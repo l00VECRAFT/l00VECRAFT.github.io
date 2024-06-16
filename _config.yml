@@ -34,7 +34,7 @@ lines: # You can add HTML Tags in the Text
   - text: "&quot;Hablar es barato. Muéstrame el código.&quot; - Linus Torvalds"
   - text: "&quot;Dado un número suficiente de ojos, todos los errores son superficiales.&quot; - Eric S. Raymond"
   - text: "&quot;Picasso tenía una frase: 'los buenos artistas copian, los grandes artistas roban', y nosotros siempre hemos sido descarados al robar grandes ideas.&quot; - Steve Jobs"
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/jala.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
@@ -133,6 +133,7 @@ pages_list:
   Comparación: "comparison"
   Evolución: "evolution"
   Conclusión: "conclusion"
+  Bibliografia : "bibliography"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
