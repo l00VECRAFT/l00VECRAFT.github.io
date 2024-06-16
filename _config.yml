@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://l00vecraft.github.io/"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -10,8 +10,8 @@ google-tracking-id: "UA-XXXXXXXX-X"
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Open Source vs Closed Source"
+title: "{ Open Source VS Closed Source }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -31,8 +31,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "&quot;Hablar es barato. Muéstrame el código.&quot; - Linus Torvalds"
+  - text: "&quot;Dado un número suficiente de ojos, todos los errores son superficiales.&quot; - Eric S. Raymond"
+  - text: "&quot;Picasso tenía una frase: 'los buenos artistas copian, los grandes artistas roban', y nosotros siempre hemos sido descarados al robar grandes ideas.&quot; - Steve Jobs"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -77,7 +78,7 @@ tumblr-share: True
 pinterest-share: True
 pocket-share: True
 vkontakte-share: True
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "open-source-vs-closed-source-jekyll"
 syntax-highlight: True
 ############
 # Timeline #
@@ -112,15 +113,7 @@ author_blurb_image: "/img/author.png"
 ##################
 # Social Buttons #
 ##################
-social:
-  - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
-  - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+
 ############
 # 404 page #
 ############
@@ -133,8 +126,6 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: "about"
   Blog: "latest-post"
-  Timeline: "timeline"
-  Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
