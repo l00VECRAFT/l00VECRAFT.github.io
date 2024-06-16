@@ -125,7 +125,14 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 pages_list:
   About: "about"
-  Blog: "latest-post"
+  #Blog: "latest-post"
+  Introducción: "introduccion"
+  Historia: "history"
+  Open Source: "open-source"
+  Closed Source: "closed-source"
+  Comparación: "comparison"
+  Evolución: "evolution"
+  Conclusión: "conclusion"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
